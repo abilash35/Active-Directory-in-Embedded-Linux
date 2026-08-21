@@ -1,1 +1,2 @@
-# Active-Directory-in-Embedded-Linux
+The primary objective is to develop a lightweight Linux-based domain controller that can be deployed on embedded hardware for OT environments where compact footprint, low power consumption, local authentication, network isolation, and independent operation are important requirements.
+The project is intended as an engineering and research platform rather than a replacement for Microsoft Active Directory in every enterprise use case.
